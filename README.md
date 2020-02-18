@@ -1,1 +1,1 @@
-# Typical interview questions for IT specialists
+# Вопросы для собеседования
